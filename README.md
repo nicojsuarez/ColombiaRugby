@@ -1,4 +1,8 @@
-# ColombiaRugby
+# Hola Mundo #
+
+Este es mi primer proyecto que subo a git, habla sobre datos obtenidos a partir de data no estructurada en este caso los videos, de competencia de los preparatorios para juegos nacionales 2023, aqui resumi todas las acciones de un partido para entender por que la seleccion de rugby de Bogtá no puede ganar por varios años esta competencia!!! 
+
+Para ello me sente a ver horas y horas de videos para poder categorizar esta informacion :), 
 
 ASKING FASE 
 
